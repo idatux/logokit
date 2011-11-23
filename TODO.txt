@@ -1,0 +1,12 @@
+TODO
+----
+
+idatuxlogo_100x100.png
+idatuxlogo_150x150.png
+idatuxlogo_250x250.png
+idatuxlogo_32x32.png
+idatuxlogo_40x40.png
+idatuxlogo_500x500.png
+idatuxlogo_50x50.png
+idatuxlogo_60x60.png
+idatuxlogo_64x64.png
