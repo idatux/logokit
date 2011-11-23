@@ -1,5 +1,6 @@
 TODO
 ----
+* Crear imágenes PNG con los siguientes tamaños:
 
 idatuxlogo_100x100.png
 idatuxlogo_150x150.png
